@@ -8,5 +8,10 @@ the specific question may be: Where should three ERS facilities be placed so tha
 Here the models answer by locating three perfect ERS facilities.
 
 * ### P-Median model
-![alt text](images/Image_001.png "Title")
-
+![](images/Image_001.png)
+* ### Location Set Covering model
+![](images/Image_003.png)
+* ### Maximum Coverage Location model
+![](images/Image_002.png)
+* ### capacity Maximum Coverage Location model
+![](images/Image_004.png)
