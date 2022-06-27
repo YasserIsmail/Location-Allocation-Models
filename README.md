@@ -8,5 +8,5 @@ the specific question may be: Where should three ERS facilities be placed so tha
 Here the models answer by locating three perfect ERS facilities.
 
 * ### P-Median model
-![P-Median model]('images\Image 001.png')
+![files in 158](images/Image 001.png "files in 158")
 
