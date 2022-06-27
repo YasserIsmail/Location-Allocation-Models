@@ -15,3 +15,8 @@ Here the models answer by locating three perfect ERS facilities.
 ![](images/Image_002.png)
 * ### capacity Maximum Coverage Location model
 ![](images/Image_004.png)
+* ### an example to use p-median model with two facilities needed
+![](images/Layout_1.png)
+```python
+## yasser Ismail
+```
