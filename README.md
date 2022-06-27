@@ -7,4 +7,6 @@ for example, when someone calls for an ambulance, we trust it will come to their
 the specific question may be: Where should three ERS facilities be placed so that the greatest number of people in the community can be reached within four minutes?
 Here the models answer by locating three perfect ERS facilities.
 
-#### P-Median model
+* ### P-Median model
+![P-Median model]('images\Image 001.png')
+
