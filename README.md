@@ -53,17 +53,14 @@ Below is a sample result showing how demand points are assigned to 2 selected fa
 ![P-Median 2 Facilities Example](images/Layout_1.png)
 
 ---
-
-### 👨‍💻 **Author**
-
-* **Yasser I. Barhoom**
-* **Geospatial Engineer**
-
----
-
 ## 🧩 Tools & Platform
 
 * QGIS Processing Toolbox
 * Python (PyQGIS)
 * GIS Network Analysis
 * Location-allocation algorithms
+---
+### 👨‍💻 **Author**
+
+* **Yasser I. Barhoom**
+* **Geospatial Engineer**
