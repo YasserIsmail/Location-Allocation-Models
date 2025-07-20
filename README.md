@@ -54,11 +54,10 @@ Below is a sample result showing how demand points are assigned to 2 selected fa
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 **Author**
 
-```python
-## Developed by: Yasser Ismail
-````
+* **Yasser I. Barhoom**
+* **Geospatial Engineer**
 
 ---
 
