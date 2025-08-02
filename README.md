@@ -63,4 +63,4 @@ Below is a sample result showing how demand points are assigned to 2 selected fa
 ### 👨‍💻 **Author**
 
 * **Yasser I. Barhoom**
-* **Geospatial Engineer**
+* **Geomatics Engineer**
